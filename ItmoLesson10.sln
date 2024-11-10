@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_LESSON12", "ITMO_LESSO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_LESSON13", "ITMO_LESSON13\ITMO_LESSON13.csproj", "{8478CC71-8DC5-406E-A506-9D495E53FAC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_LESSON14", "ITMO_LESSON14\ITMO_LESSON14.csproj", "{6A776044-2B86-4F16-9551-DC57CCC41E89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8478CC71-8DC5-406E-A506-9D495E53FAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8478CC71-8DC5-406E-A506-9D495E53FAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8478CC71-8DC5-406E-A506-9D495E53FAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A776044-2B86-4F16-9551-DC57CCC41E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A776044-2B86-4F16-9551-DC57CCC41E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A776044-2B86-4F16-9551-DC57CCC41E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A776044-2B86-4F16-9551-DC57CCC41E89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
